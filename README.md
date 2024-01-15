@@ -1,4 +1,4 @@
-<img alt="Blue_Cheetah" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm MUSTAFA SALİH BAHAR</h2>
+<img alt="Blue_Cheetah" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm MUSTAFA SALİH BAHAR</h2><img alt="Night Coding" src="https://i.pinimg.com/originals/07/5a/d1/075ad1d038e32c86eceba9abd25f9865.jpg" width="300" align="right"/>
 
 <!-- ## 👋 &nbsp;Hey there! I'm MUSTAFA SALİH BAHAR -->
 
@@ -44,7 +44,5 @@
 <a href="https://linkedin.com/in/mbhr675543/"><img src="https://img.shields.io/badge/-Mustafa%20Salih%20Bahar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mstfbhr236_msb@mail.com"><img src="https://img.shields.io/badge/-mstfbhr236_msb@mail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
-<img src="https://i.pinimg.com/originals/07/5a/d1/075ad1d038e32c86eceba9abd25f9865.jpg" width="700" align="center"/>
 
 
