@@ -1,6 +1,6 @@
-![mustafa Banner](https://i.pinimg.com/originals/07/5a/d1/075ad1d038e32c86eceba9abd25f9865.jpg)
+<img src="https://i.pinimg.com/originals/07/5a/d1/075ad1d038e32c86eceba9abd25f9865.jpg" width="700" align="center"/>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm MUSTAFA SALİH BAHAR</h2>
+<img alt="Blue_Cheetah" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm MUSTAFA SALİH BAHAR</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm MUSTAFA SALİH BAHAR -->
 
