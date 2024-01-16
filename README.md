@@ -1,4 +1,4 @@
-<img alt="Blue_Cheetah" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm MUSTAFA SALİH BAHAR</h2><img alt="Night Coding" src="https://i.pinimg.com/originals/07/5a/d1/075ad1d038e32c86eceba9abd25f9865.jpg" width="300" align="right"/>
+<img alt="Blue_Cheetah" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm MUSTAFA SALİH BAHAR</h2><img alt="BC" src="https://i.pinimg.com/originals/07/5a/d1/075ad1d038e32c86eceba9abd25f9865.jpg" width='200' align="right"/>
 
 <!-- ## 👋 &nbsp;Hey there! I'm MUSTAFA SALİH BAHAR -->
 
@@ -9,14 +9,17 @@
 🌱 &nbsp;I'm on track for learning more about coding skills and Artificial Intelligence.\
 🌷 &nbsp;My research areas are imbalanced dataset problem and GAN.\
 ✍️ &nbsp;In my free time, I run as a hobby. I am a long distance runner.\
-✉️ &nbsp;You can shoot me an email at mstfbhr236_msb_msb@mail.com I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at mstfbhr236_msb@mail.com I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="NC" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -29,7 +32,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
