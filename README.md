@@ -7,7 +7,7 @@
 ⚡ &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science as a Ph.D Student at Yıldız Teknik Üniversitesi.\
 🌱 &nbsp;I'm on track for learning more about coding skills and Artificial Intelligence.\
-🌷 &nbsp;My research areas are imbalanced dataset problem and GAN.\
+🌷 &nbsp;My research areas are image classification and imbalanced dataset problems.\
 ✍️ &nbsp;In my free time, I run as a hobby. I am a long distance runner.\
 ✉️ &nbsp;You can shoot me an email at mstfbhr236_msb@mail.com I'll try to respond as soon as I can.
 
